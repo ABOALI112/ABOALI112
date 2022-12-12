@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABOALI112
 - 👀 I’m interested in Python Development , Bug Bounty , Security Reseacher, Security in AI
-- 🌱 I’m currently learning Web Security and Continous Bug Hunter 
+- 🌱 I’m currently learning Web Security and  Bug Hunting
 - 💞️ I’m looking to collaborate on BBH and Pentesting
 
 <!---
